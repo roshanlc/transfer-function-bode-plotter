@@ -22,14 +22,11 @@ Example:
     
 ![2.png](2.png)
 
----
 
 >In the above equation,\
 num = [1,3]\
 den = [1,3,2,0]
 
----
-Resultant plots:
 ![magnitude-plot.png](mag-plot.jpg)
     
 ![phase-plot.png](phase-plot.jpg)
