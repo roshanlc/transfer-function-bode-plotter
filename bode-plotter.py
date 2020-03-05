@@ -22,6 +22,7 @@ num = [20,40] #coeff at numerator
 den = [1,4,16,0] #coeff at denomenator
 sys = signal.TransferFunction(num,den)
 
+
 # -----------------------
 
 w, mag, phase = signal.bode(sys)

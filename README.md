@@ -8,9 +8,9 @@ To install them, run:
 
   
 
-> The given tranfer function should be in expanded form.
-num = coefficients of respective powers at numerator,
-den = coefficients of respective powers at denomenator,
+> The given tranfer function should be in expanded form.\
+num = coefficients of respective powers at numerator,\
+den = coefficients of respective powers at denomenator,\
 Go upto the power = 0
 
 ---
@@ -24,6 +24,12 @@ Example:
 
 ---
 
->In the above equation,
-num = [1,3]
+>In the above equation,\
+num = [1,3]\
 den = [1,3,2,0]
+
+---
+Resultant plots:
+![magnitude-plot.png](mag-plot.jpg)
+    
+![phase-plot.png](phase-plot.jpg)
